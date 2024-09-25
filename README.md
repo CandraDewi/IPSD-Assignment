@@ -1,4 +1,4 @@
-## Repository praktikum IPSD ##
+## Repository Praktikum IPSD ##
 
 <pre>
 Nama : A.A. ISTRI CANDRA MANIKA DEWI
